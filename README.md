@@ -17,8 +17,8 @@ Este proyecto es un programa en Python que permite gestionar de manera básica u
    - Debe ser un **número entero válido**.
    - No puede ser negativo.
 
-4. Calcular el costo total:
-  ## costo_total = precio * cantidad
+4. Calcular el costo total
+   -costo_total = precio * cantidad
 
 
 
