@@ -33,6 +33,19 @@ Este proyecto es un programa en Python que permite gestionar de manera básica u
  - === RESULTADO DEL INVENTARIO ===
  - 
 Producto: Manzana | Precio: 2.5 | Cantidad: 10 | Total: 25.0
+
+
+
+# Validaciones y errores manejados
+
+Nombre vacío → mensaje de error.
+
+Nombre con números o símbolos → mensaje de error.
+
+Precio negativo o no numérico → mensaje de error.
+
+Cantidad negativa o no entera → mensaje de error.
+
    
 
 
