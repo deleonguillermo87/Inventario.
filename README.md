@@ -51,6 +51,7 @@ Cantidad negativa o no entera → mensaje de error.
 1.Clonar o descargar el repositorio.
 
 2.Ejecutar el archivo inventario.py con Python 3
+  - python inventario.py
 
    
 
