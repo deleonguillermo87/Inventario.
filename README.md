@@ -17,12 +17,7 @@ Este proyecto es un programa en Python que permite gestionar de manera básica u
    - Debe ser un **número entero válido**.
    - No puede ser negativo.
 
-Ingrese el nombre del producto: Manzana
-Ingrese el precio del producto: 2.5
-Ingrese la cantidad del producto: 10
 
-=== RESULTADO DEL INVENTARIO ===
-Producto: Manzana | Precio: 2.5 | Cantidad: 10 | Total: 25.0
 
 4. Calcular el costo total:
    ```python
@@ -32,6 +27,12 @@ Producto: Manzana | Precio: 2.5 | Cantidad: 10 | Total: 25.0
 5. Mostrar un resumen en pantalla
  -  Producto: <nombre> | Precio: <precio> | Cantidad: <cantidad> | Total: <costo_total>
  - === SISTEMA DE INVENTARIO ===
- 
+ - Ingrese el nombre del producto: Manzana
+ - Ingrese el precio del producto: 2.5
+ - Ingrese la cantidad del producto: 10
+ - === RESULTADO DEL INVENTARIO ===
+ - 
+Producto: Manzana | Precio: 2.5 | Cantidad: 10 | Total: 25.0
+   
 
 
