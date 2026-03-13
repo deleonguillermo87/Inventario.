@@ -46,6 +46,12 @@ Precio negativo o no numérico → mensaje de error.
 
 Cantidad negativa o no entera → mensaje de error.
 
+# Cómo ejecutar
+
+1.Clonar o descargar el repositorio.
+
+2.Ejecutar el archivo inventario.py con Python 3
+
    
 
 
