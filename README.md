@@ -18,11 +18,12 @@ Este proyecto es un programa en Python que permite gestionar de manera básica u
    - No puede ser negativo.
 
 4. Calcular el costo total
-   -costo_total = precio * cantidad
+     costo_total = precio * cantidad
+  
 
 
 
-5. Mostrar un resumen en pantalla: 
+6. Mostrar un resumen en pantalla: 
  
 ## Ejemplo de ejecución
 
