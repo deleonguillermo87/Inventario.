@@ -16,9 +16,10 @@ Este proyecto es un programa en Python que permite gestionar de manera básica u
 3. Solicitar la cantidad del producto:
    - Debe ser un **número entero válido**.
    - No puede ser negativo.
-   -  Producto: <nombre> | Precio: <precio> | Cantidad: <cantidad> | Total: <costo_total>
 
-4. Calcular el costo total: precio * cantidad
+4. Calcular el costo total:
+   ```python
+   costo_total = precio * cantidad
    
    
 5. Mostrar un resumen en pantalla
