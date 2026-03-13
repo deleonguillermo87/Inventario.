@@ -142,6 +142,18 @@ print(f"Producto: {nombre} | Precio: {precio} | Cantidad: {cantidad} | Total: {c
 
 
 
+## 🖥️ Ejemplo de ejecución
+
+```text
+=== SISTEMA DE INVENTARIO ===
+Ingrese el nombre del producto: Laptop
+Ingrese el precio del producto: 850.75
+Ingrese la cantidad del producto: 2
+
+=== RESULTADO DEL INVENTARIO ===
+Producto: Laptop | Precio: 850.75 | Cantidad: 2 | Total: 1701.5
+
+
 
 
 
