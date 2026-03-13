@@ -16,7 +16,7 @@ Este proyecto es un programa en Python que permite gestionar de manera básica u
 3. Solicitar la cantidad del producto:
    - Debe ser un **número entero válido**.
    - No puede ser negativo.
-   - === SISTEMA DE INVENTARIO ===
+
 Ingrese el nombre del producto: Manzana
 Ingrese el precio del producto: 2.5
 Ingrese la cantidad del producto: 10
@@ -31,7 +31,7 @@ Producto: Manzana | Precio: 2.5 | Cantidad: 10 | Total: 25.0
    
 5. Mostrar un resumen en pantalla
  -  Producto: <nombre> | Precio: <precio> | Cantidad: <cantidad> | Total: <costo_total>
-
+ - === SISTEMA DE INVENTARIO ===
  
 
 
