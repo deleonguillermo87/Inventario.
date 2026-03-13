@@ -17,13 +17,13 @@ Este proyecto es un programa en Python que permite gestionar de manera básica u
    - Debe ser un **número entero válido**.
    - No puede ser negativo.
 
-4. Calcular el costo total
-   fff
+4. Calcular el costo total: precio * cantidad
    
-  
 
 
 
+   
+   
 6. Mostrar un resumen en pantalla: 
  
 ## Ejemplo de ejecución
