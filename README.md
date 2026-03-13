@@ -22,7 +22,7 @@ Este proyecto es un programa en Python que permite gestionar de manera básica u
    
    
 5. Mostrar un resumen en pantalla
-  
+ -  Producto: <nombre> | Precio: <precio> | Cantidad: <cantidad> | Total: <costo_total>
  
 
 
