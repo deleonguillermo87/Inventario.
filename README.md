@@ -19,20 +19,9 @@ Este proyecto es un programa en Python que permite gestionar de manera básica u
 
 4. Calcular el costo total: precio * cantidad
    
-
-
-
    
-   
-6. Mostrar un resumen en pantalla: 
+5. Mostrar un resumen en pantalla:
+   Producto: <nombre> | Precio: <precio> | Cantidad: <cantidad> | Total: <costo_total>
  
-## Ejemplo de ejecución
 
-=== SISTEMA DE INVENTARIO ===
-Ingrese el nombre del producto: Manzana
-Ingrese el precio del producto: 2.5
-Ingrese la cantidad del producto: 10
-
-=== RESULTADO DEL INVENTARIO ===
-Producto: Manzana | Precio: 2.5 | Cantidad: 10 | Total: 25.0
 
